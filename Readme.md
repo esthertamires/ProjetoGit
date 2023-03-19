@@ -1,2 +1,2 @@
 Olá esse projeto ensina você a usa o Git
-Isso é uma alturação
+Isso é uma alteração
